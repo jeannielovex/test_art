@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # neural-style
 
 An implementation of [neural style][paper] in TensorFlow.
@@ -143,3 +144,7 @@ Copyright (c) 2015-2017 Anish Athalye. Released under GPLv3. See
 [lengstrom-fast-style-transfer]: https://github.com/lengstrom/fast-style-transfer
 [fast-neural-style]: https://arxiv.org/pdf/1603.08155v1.pdf
 [license]: LICENSE.txt
+=======
+# test_art
+실습_깃허브올리기
+>>>>>>> b30fb4fc9886a9253396cfaa8f47c613c2dccd32
